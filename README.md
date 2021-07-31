@@ -12,6 +12,7 @@ https://www.pgyer.com/hOcO
 - UP主投稿视频查看
 - 视频播放
 - 直播 (Webview)
+- 弹幕 (普通弹幕)
 
 ### Todo
 
@@ -23,7 +24,6 @@ https://www.pgyer.com/hOcO
 - 分区支持筛选排序
 - 番剧
 - 账号登录
-- 弹幕
 - 评论
 - 文章区
 
